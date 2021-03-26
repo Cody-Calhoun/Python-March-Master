@@ -1,0 +1,25 @@
+WELCOME TO PYTHON!
+
+Week 1 Lecture 1
+
+Welcome:
+- Introductions
+- Resources
+    - MatterMost
+    - Platform
+
+Get Python Running:
+    ** Mac Users, if you are still having issues, try downloading python 3.6.8 from the Python main age **
+    
+    - Pip - What is it?
+    - Virtual Environment 
+        - How to create one?
+        - Why do we use a virtual Environment
+        - Walk through creating a shell and deactivating
+    - Python shell
+        - Activate and deactivate
+
+Python Syntax:
+    - Strings
+    - Python vs Javascript
+    - Data Types (** If we have time)

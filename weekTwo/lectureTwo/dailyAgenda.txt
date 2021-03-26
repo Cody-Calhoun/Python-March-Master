@@ -1,0 +1,16 @@
+Python Week Two Lecture Two
+
+Housekeeping:
+- Office Hour Video
+- Assignments
+- Discussions
+
+Next Week:
+- Django BEGINS!!!
+    - PLEASE look at Material
+
+MYSQL:
+- What is a Database
+- One to Many
+- Many to Many
+- One to One
